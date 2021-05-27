@@ -6,10 +6,10 @@
 Coyote bot is a pump bot intended to participate in pump events organized by some pump groups in Telegram or Discord.
 The Coyote pump bot is able to predict the coin that will be pumped a few seconds before the signal is given in the group.
 This permit to the user to buy the coin at almost the bottom of the pump and optimize the profit.
-##### Process : The bot detect thge coin, buy it and place sell order automatically. Then you can manage the sell order using other features.
+##### Process : The bot detect the coin, buy it and place sell order automatically. Then you can manage the sell order using other features.
 Some other handy features are included such as the Target Slider or the Pump Strength Indicator (PSI).
 
-Some videos are available on Youtube in this channel : https://www.youtube.com
+Some videos are available on Youtube in this channel : https://www.youtube.com/channel/UCi77KRuBnBQDvP3qUhN7pRw/videos
 
 
 ## Features
